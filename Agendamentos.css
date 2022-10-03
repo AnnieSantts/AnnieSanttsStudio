@@ -1,0 +1,18 @@
+.tabela {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .mapa {
+    display: flex;
+    justify-content: center;
+  }
+  .botaoContato{
+    background-color: bisque;
+    border-radius: 20%;
+   padding: 10px;
+  }
+
+  .botaoContato:hover{
+background-color: rgb(210, 166, 99);
+  }
