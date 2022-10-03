@@ -55,6 +55,10 @@ nav a {
 
 }
 
+nav a:hover{
+ color: rgb(205, 31, 31);
+}
+
 .di {
   display: flex;
   justify-content: center;
