@@ -57,6 +57,7 @@ nav a {
 
 nav a:hover{
  color: rgb(205, 31, 31);
+ font-size: 15px;
 }
 
 .di {
